@@ -25,7 +25,7 @@ class RAGSystem:
     def __init__(self):
         # === R: Retrieval Initialization ===
         # Initialize Gemini API configuration
-        self.api_key = "AIzaSyAqFTZqLMHvviA5juyzUz-RsHoiZYlj-LE"
+        self.api_key = "Your Api Key"
         self.api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
         
         # Initialize NLP models
