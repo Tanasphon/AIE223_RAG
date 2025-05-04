@@ -87,5 +87,5 @@ AIE223_RAG/
 - Developed for AIE223
 
 ## Contact
-- tanasphon@bumail.net
+- tanasphon.angt@bumail.net
 - jeehan.sutt@bumail.net 
